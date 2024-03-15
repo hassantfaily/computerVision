@@ -1,0 +1,9 @@
+train: ./data/train
+val: ./data/validation
+
+
+# number of classes
+nc: 3
+
+# class names
+names: [ 'dolly','bin','jack']
